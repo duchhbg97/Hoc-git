@@ -1,1 +1,2 @@
-# Hoc-git
+# Hoc-git 
+# Duc cho
